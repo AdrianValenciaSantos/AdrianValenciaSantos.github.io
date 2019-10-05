@@ -1,3 +1,8 @@
+.container {
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
 .navbar {
     position: sticky;
     background-color: #4169E1;
@@ -5,6 +10,7 @@
     width: 100%;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 24px;
+    color: #FFFF66;
 }
 
 .navbar a {
@@ -85,20 +91,6 @@ section .row img {
   width: 100%
 }
 
-.img4 {
-    transform: rotate(270deg);
-    margin: 0 0 30px;
-    width: 100%
-}
-
-.img3 {
-    transform: rotate(270deg);
-    overflow: hidden;
-    margin: 0 0 30px;
-    width: 100%
-}
-
 .img1 {
     transform: rotate(180deg);
-    overflow: hidden;
 }
