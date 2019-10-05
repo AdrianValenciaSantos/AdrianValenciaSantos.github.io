@@ -1,6 +1,6 @@
-.container {
-    overflow-x: hidden;
-    overflow-y: hidden;
+body {
+    background-image: url(images/home.jpg);
+    position: absolute;
 }
 
 .navbar {
