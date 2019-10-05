@@ -53,6 +53,7 @@
 .references {
     text-decoration: none;
     display: inline;
+    float: right;
     background-color: #4169E1;
     color: #FFA500;
     font-family: Arial, Helvetica, sans-serif;
