@@ -19,7 +19,7 @@
     color: #FFFF66;
 }
 
-.dropdownMenu:hover, .menuContent:hover {
+.dropdownMenu:hover .menuContent {
     display: block;
 }
 
@@ -47,6 +47,7 @@
 
 .active:hover {
     background-color: #f44336;
+    display: block;
 }
 
 .references {
@@ -63,4 +64,15 @@
     padding: 16px;
     color: #FFA500;
     font-size: 24px;
+}
+
+.navbuttons {
+    margin-right: 10px;
+    padding-right: 20px;
+    background-color: #458cff;
+    display: inline-block;
+    text-align: right;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 75%;
 }
