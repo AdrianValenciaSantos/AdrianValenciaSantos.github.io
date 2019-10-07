@@ -27,6 +27,7 @@ Make the nav bar have some opacity, including the dropdown menu!
 
 .dropdownMenu:hover .menuContent {
     display: block;
+    opacity: 0.5;
 }
 
 .menuContent {
