@@ -94,7 +94,7 @@ section .row img {
 .container {
     position: absolute;
     width: 100%;
-    top: 75px;
+    top: 100px;
 }
 
 .leftpane {
