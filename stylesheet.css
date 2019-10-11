@@ -90,3 +90,23 @@ section .row img {
 .img1 {
     transform: rotate(180deg);
 }
+
+.container {
+    position: absolute;
+    width: 100%;
+    top: 68px;
+}
+
+.leftpane {
+    display: flex;
+    float: left;
+    height: 100%;
+    width: 50%;
+}
+
+.rightpane {
+    display: flex;
+    float: left;
+    height: 100%;
+    width: 50%;
+}
