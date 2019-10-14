@@ -116,9 +116,9 @@ section .row img {
 }
 
 .rightpane p {
-    color: #FFFF66;
+    color: #ffff00;
     font-size: 14px;
     font-weight: bold;
     text-align: left;
-    right: 100%;
+    right: 100px;
 }
