@@ -112,3 +112,10 @@ section .row img {
     height: 100%;
     width: 50%;
 }
+
+.rightpane p {
+    color: #FFFF66;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+}
