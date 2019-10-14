@@ -107,6 +107,8 @@ section .row img {
 }
 
 .rightpane {
+    justify-content: center;
+    align-items: center;
     display: flex;
     float: left;
     height: 100%;
@@ -115,7 +117,8 @@ section .row img {
 
 .rightpane p {
     color: #FFFF66;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: bold;
-    text-align: center;
+    text-align: left;
+    right: 100%;
 }
