@@ -60,6 +60,7 @@ nav{
 @media only screen and (max-width:768px){
 	html, body{
 		overflow-x: hidden;
+        overflow-y: auto;
 	}
 	.nav-links{
 		position: fixed;
