@@ -59,10 +59,10 @@ nav{
 
 @media only screen and (max-width:768px){
 	body{
-		overflow-x: hidden;
+		overflow: hidden;
 	}
 	.nav-links{
-		position: absolute;
+		position: fixed;
 		right: 0px;
 		height: 92vh;
 		top: 8vh;
