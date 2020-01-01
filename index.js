@@ -45,7 +45,7 @@ var b4 = document.getElementById('b4');
         b2.style.display = "none";
         b3.style.display = "none";
         b4.style.display = "none";
-        pic.src = "C:/Users/Adrian/Desktop/portfolio/images/fictionstoryimages/pig.jpg";
+        pic.src = "/images/fictionstoryimages/pig.jpg";
     }
 		
     function storyintro() {
@@ -59,7 +59,7 @@ var b4 = document.getElementById('b4');
         b2.style.display = "block";
         b3.style.display = "none";
         b4.style.display = "none";
-        pic.src = "C:/Users/Adrian/Desktop/portfolio/images/fictionstoryimages/potato.png";
+        pic.src = "/images/fictionstoryimages/potato.png";
     }
 		
     function storyend() {
@@ -72,7 +72,7 @@ var b4 = document.getElementById('b4');
         b3.innerHTML = "Respawn";
         b3.style.display = "block";
         b4.style.display = "none";
-        pic.src = "C:/Users/Adrian/Desktop/portfolio/images/fictionstoryimages/gameover.png";
+        pic.src = "/images/fictionstoryimages/gameover.png";
     }
 		
     function saveking() {
@@ -87,7 +87,7 @@ var b4 = document.getElementById('b4');
         b3.innerHTML = "A 50 pound sword";
         b3.style.display = "block";
         b4.style.display = "none";
-        pic.src = "C:/Users/Adrian/Desktop/portfolio/images/fictionstoryimages/warrior.png";
+        pic.src = "/images/fictionstoryimages/warrior.png";
     }
 		
     function adventurestart() {
@@ -102,7 +102,7 @@ var b4 = document.getElementById('b4');
         b3.innerHTML = "Ask the knight to join your squad";
         b3.style.display = "block";
         b4.style.display = "none";
-        pic.src = "C:/Users/Adrian/Desktop/portfolio/images/fictionstoryimages/knight.png";
+        pic.src = "/images/fictionstoryimages/knight.png";
     }
 		
     function killknight() {
@@ -115,7 +115,7 @@ var b4 = document.getElementById('b4');
         b2.style.display = "none";
         b3.style.display = "none";
         b4.style.display = "none";
-        pic.src = "C:/Users/Adrian/Desktop/portfolio/images/fictionstoryimages/deadknight.png";
+        pic.src = "/images/fictionstoryimages/deadknight.png";
     }
 		
     function ignoreknight() {
@@ -128,7 +128,7 @@ var b4 = document.getElementById('b4');
         b2.style.display = "none";
         b3.style.display = "none";
         b4.style.display = "none";
-        pic.src = "C:/Users/Adrian/Desktop/portfolio/images/fictionstoryimages/ignoreknight.png";
+        pic.src = "/images/fictionstoryimages/ignoreknight.png";
     }
 		
     function teamknight() {
@@ -141,7 +141,7 @@ var b4 = document.getElementById('b4');
         b2.style.display = "none";
         b3.style.display = "none";
         b4.style.display = "none";
-        pic.src = "C:/Users/Adrian/Desktop/portfolio/images/fictionstoryimages/teamknight.png";
+        pic.src = "/images/fictionstoryimages/teamknight.png";
     }
 		
     function killknightcontinued() {
